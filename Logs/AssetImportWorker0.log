@@ -219,3 +219,69 @@ Received Import Request.
 Start importing Assets/Mover.cs using Guid(113edcd231c054a75b341e829846e9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c8f0404dadf10f588ea72f9c4545fe') in 0.539904 seconds
   Import took 0.545227 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000861 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.366 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1257 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.2 MB.
+System memory in use after: 130.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1765.
+Total: 3.209057 ms (FindLiveObjects: 0.298858 ms CreateObjectMapping: 0.066829 ms MarkObjects: 2.771474 ms  DeleteObjects: 0.069575 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 215.608828 seconds.
+  path: Assets/Mover.cs
+  artifactKey: Guid(113edcd231c054a75b341e829846e9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mover.cs using Guid(113edcd231c054a75b341e829846e9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9842d675272e4d1b28fca25babe5709b') in 0.012061 seconds
+  Import took 0.016540 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000531 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.421 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1257 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.4 MB.
+System memory in use after: 130.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1768.
+Total: 3.022035 ms (FindLiveObjects: 0.337147 ms CreateObjectMapping: 0.103947 ms MarkObjects: 2.501496 ms  DeleteObjects: 0.077758 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.524620 seconds.
+  path: Assets/Mover.cs
+  artifactKey: Guid(113edcd231c054a75b341e829846e9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mover.cs using Guid(113edcd231c054a75b341e829846e9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a68d6ebb801be4a095bb9313b43a1e2c') in 0.005102 seconds
+  Import took 0.009336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.531111 seconds.
+  path: Assets/Mover.cs
+  artifactKey: Guid(113edcd231c054a75b341e829846e9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mover.cs using Guid(113edcd231c054a75b341e829846e9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a68d6ebb801be4a095bb9313b43a1e2c') in 0.001662 seconds
+  Import took 0.004340 seconds .
+
